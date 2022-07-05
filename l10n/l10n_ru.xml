@@ -14,14 +14,14 @@
 		<!-- Display texts -->
 		<text name="SC_widhei" text="Макс. ширина/длина:" />
 		<text name="SC_worktim" text="Расчётное время:" />
-		<text name="SC_price" text="Цена:" />
+		<text name="SC_price" text="Цена/1000 л:" />
 		<text name="SC_profpmin" text="Прибыль/мин:" />
 		<text name="SC_sort" text="Сорт." />
 
 		<text name="SC_field" text="Поле %d / %s" />
 		<text name="SC_worked" text="Выполнено:" />
 		<text name="SC_delivered" text="Доставлено:" />
-		<text name="SC_deliver" text="Необходимо ещё доставить:" />
+		<text name="SC_deliver" text="Требуется ещё доставить:" />
 		<text name="SC_keep" text="Можно оставить:" />
 		<text name="SC_profit" text="Прибыль от урожая:" />
 		<text name="SC_usage" text="Расходовать:" />
